@@ -7,7 +7,9 @@ This page contains information about the live music at the NeurIPS 2019 banquet.
 <img src="images/saurabh.jpg" width=200 align="left">
 <p height=200>Saurabh Kumar plays the tabla, an Indian classical percussion instrument, and has been learning the tabla for the past 18 years. In his free time, he is a PhD student at Stanford and was a past AI Resident at Google Brain.</p>
 
+
 ---
+
 
 ### Josh Payne
 <img src="images/josh.jpg" width=200 align="left">
