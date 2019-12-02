@@ -8,6 +8,8 @@ This page contains information about the live music at the NeurIPS 2019 banquet.
 Pablo Samuel Castro is the NeurIPS'19 Party Chair, and is happy to also be one of its performers! He has been playing music all his life, focusing mostly on piano and guitar. He has released 3 full length albums with Jai Guru (rock/funk), Ecos de Portoalegre (latin jazz), and [psc trio](https://www.psctrio.com/) (his current jazz trio, which you can listen to on any streaming service). In addition to playing music, he's a staff research software developer at Google Brain in Montreal. See what he's up to on [twitter](https://twitter.com/pcastr).
 <br><br><br><br><br><br>
 
+---
+
 ### Good Kid
 <img src="images/goodkid.jpg" width=200 align="left">
 Good kid is band of five programmers that met at the university of Toronto while studying computer science. They have played their brand of fast paced indie rock in New York, LA, and Toronto and are super excited to play NeuRIPS! During the daytime Nick Frosst (vocals) works at Google Brain where he focuses on adversarial examples and capsule networks. He has been trying to convince the other members to abandon their respective fields to get in on the deep learning hype, but so far he has only convinced Jon (drums).
@@ -31,7 +33,7 @@ Josh Payne is an undergraduate at Stanford University studying Mathematical and 
 ### Tina Raissi
 <img src="images/tina.jpg" width=200 align="left">
 Tina Raissi is finishing her Master’s studies in Computer Science and working in the field of Automatic Speech Recognition at RWTH Aachen University. In a past life she was a professional classical pianist and now she is exploring the open seas of acoustic modeling.
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -45,7 +47,7 @@ Nixie earned her Bachelor’s degree in Mathematical Sciences with Minor in Fina
 Putting research/maths aside, Nixie loves and has been singing for about half of her life (for
 some videos of her singing history, visit [this link](https://www.youtube.com/results?search_query=nixie+sapphira+lesmana)). She enjoys watching TV series (mostly
 Korean) and learning new languages (in her spare spare time).
-<br><br><br><br><br>
+<br><br><br>
 
 ---
 
