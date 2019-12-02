@@ -5,6 +5,7 @@ This page contains information about the live music at the NeurIPS 2019 banquet.
 
 ### Pablo Samuel Castro (Piano / Guitar)
 <img src="images/psc.jpg" width=200 align="left">
+
 Pablo Samuel Castro is the NeurIPS'19 Party Chair, and is happy to also be one of its performers! He has been playing music all his life, focusing mostly on piano and guitar. He has released 3 full length albums with Jai Guru (rock/funk), Ecos de Portoalegre (latin jazz), and [psc trio](https://www.psctrio.com/) (his current jazz trio, which you can listen to on any streaming service). In addition to playing music, he's a staff research software developer at Google Brain in Montreal. See what he's up to on [twitter](https://twitter.com/pcastr).
 <br><br><br><br><br><br>
 
