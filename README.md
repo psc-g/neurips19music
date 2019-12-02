@@ -4,7 +4,7 @@ This page contains information about the live music at the NeurIPS 2019 banquet.
 ## Performers
 
 ### Josh Payne
-<img src="images/josh.jpg" alt="Josh Payne" style="float: left; width=50" />
+![](images/josh.jpg | width=50)
 Josh Payne is an undergraduate at Stanford University studying Mathematical and
 Computational Science. He's released two albums with his jazz quintet, The Four
 O'Clock Five, and has an artist sponsorship with Soultone Cymbals. He's
