@@ -65,7 +65,7 @@ Umut Şimşekli received his PhD degree in 2015 from Bogaziçi University, I�
 ---
 
 ### Yale Song (Guitar)
-<img src=images/yale.jpg" width=200 align="left">
+<img src="images/yale.jpg" width=200 align="left">
 
-Yale Song has been playing guitar for more than 20 years in different genres ranging from classic rock and blues to funk and pop music. Prior to moving to the US for his graduate study, he was part of a Korean indie rock band, Line Shaped Circle, and was performing regularly in rock clubs in Hongdae area, which is known for its urban arts and indie music culture. On his free time, he works on computer vision and machine learning, especially on learning representations of visual data from unlabeled images and videos. He received his Ph.D. from MIT and now is a Researcher at MSR Redmond.
+Yale Song has been playing guitar for more than 20 years in different genres ranging from classic rock and blues to funk and pop music. Prior to moving to the US, he was part of a Korean indie rock band Line Shaped Circle and was performing regularly in rock clubs in Hongdae area, known for its urban arts and indie music culture. Apart from his life as a musician, he is a researcher working on computer vision and machine learning, especially on learning representations of visual data from unlabeled images and videos. He received his Ph.D. from MIT and now is a senior researcher at MSR Redmond. To learn more about his music and scholarly work, check his [YouTube channel](http://youtube.com/yalesong), [personal website](http://people.csail.mit.edu/yalesong/), [MSR profile](https://www.microsoft.com/en-us/research/people/yalesong/), and [Google Scholar](https://scholar.google.com/citations?user=dNHNpxoAAAAJ).
 <br><br><br>
