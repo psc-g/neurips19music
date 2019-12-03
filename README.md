@@ -69,3 +69,10 @@ Umut Şimşekli received his PhD degree in 2015 from Bogaziçi University, I�
 
 Yale Song has been playing guitar for more than 20 years in different genres ranging from classic rock and blues to funk and pop music. Prior to moving to the US, he was part of a Korean indie rock band Line Shaped Circle and was performing regularly in rock clubs in Hongdae area, known for its urban arts and indie music culture. Apart from his life as a musician, he is a researcher working on computer vision and machine learning, especially on learning representations of visual data from unlabeled images and videos. He received his Ph.D. from MIT and now is a senior researcher at MSR Redmond. To learn more about his music and scholarly work, check his [YouTube channel](http://youtube.com/yalesong) and [personal website](http://people.csail.mit.edu/yalesong/).
 <br><br><br>
+
+### Dhruv Karthik (Vocals)
+<img src="images/dhruv_karthik.jpg" width=200 align="left">
+
+Dhruv Karthik is an Undergraduate Junior + Masters Student at the University of Pennsylvania, studying Computer Science and Robotics. His current research interests are on using end-to-end learning to teach [small autonomous racecars](f1tenth.org) how to race, and learn safe policies in simulation that transfer to reality. He regularly plays acoustic performances all around campus, and the Philadelphia area. Check out his music on [instagram](https://www.instagram.com/dhruv_karthik/), and find him on [linkedin](https://www.linkedin.com/in/dhruvkarthik/).
+
+<br><br><br>
