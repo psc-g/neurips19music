@@ -37,7 +37,7 @@ Josh Payne is an undergraduate at Stanford University studying Mathematical and 
 ### Tina Raissi (Piano)
 <img src="images/tina.jpg" width=200 align="left">
 
-Tina Raissi is finishing her Master’s studies in Computer Science and working in the field of Automatic Speech Recognition at RWTH Aachen University. In a past life she was a professional classical pianist and now she is exploring the open seas of acoustic modeling.
+Tina Raissi is finishing her Master’s studies in Computer Science and working in the field of automatic speech recognition at RWTH Aachen University. In a past life, she was a professional classical pianist, performing as a soloist and chamber musician in important Italian theaters. Now she is exploring the open seas of context-dependent acoustic modelling for speech recognition.
 <br><br><br><br><br><br><br><br><br>
 
 ---
