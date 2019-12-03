@@ -63,3 +63,9 @@ Korean) and learning new languages (in her spare spare time).
 Umut Şimşekli received his PhD degree in 2015 from Bogaziçi University, İstanbul, Turkey. His current research interests are in large-scale Bayesian machine learning, diffusion-based Markov Chain Monte Carlo, non-convex optimization, and audio/music processing. He is an assistant professor within the Signals, Statistics, and Machine Learning Group at Telecom ParisTech in Paris and currently a visiting researcher at the University of Oxford, Department of Statistics. He used to work as a professional bass guitar player for several years in Istanbul. Previously, he was a member of the Turkish pop/jazz band [Six Pack](https://www.youtube.com/user/6packlive).
 
 ---
+
+### Yale Song (Guitar)
+<img src="images/yale.jpg" width=200 align="left">
+
+Yale Song has been playing guitar for more than 20 years in different genres ranging from classic rock and blues to funk and pop music. Prior to moving to the US, he was part of a Korean indie rock band Line Shaped Circle and was performing regularly in rock clubs in Hongdae area, known for its urban arts and indie music culture. Apart from his life as a musician, he is a researcher working on computer vision and machine learning, especially on learning representations of visual data from unlabeled images and videos. He received his Ph.D. from MIT and now is a senior researcher at MSR Redmond. To learn more about his music and scholarly work, check his [YouTube channel](http://youtube.com/yalesong) and [personal website](http://people.csail.mit.edu/yalesong/).
+<br><br><br>
