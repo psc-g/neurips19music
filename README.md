@@ -63,6 +63,17 @@ Umut Şimşekli received his PhD degree in 2015 from Bogaziçi University, I�
 Yale Song has been playing guitar for more than 20 years in different genres ranging from classic rock and blues to funk and pop music. Prior to moving to the US, he was part of a Korean indie rock band Line Shaped Circle and was performing regularly in rock clubs in Hongdae area, known for its urban arts and indie music culture. Apart from his life as a musician, he is a researcher working on computer vision and machine learning, especially on learning representations of visual data from unlabeled images and videos. He received his Ph.D. from MIT and now is a senior researcher at MSR Redmond. To learn more about his music and scholarly work, check his [YouTube channel](http://youtube.com/yalesong) and [personal website](http://people.csail.mit.edu/yalesong/).
 <br><br><br>
 
+
+---
+
+
+### Mélisande Teng (Vocals)
+<img src="images/melisande.jpg" width=200 align="left">
+
+Mélisande Teng is currently working in the [Climate Change AI team](https://mila.quebec/en/ai-society/visualizing-climate-change/) at Mila, and is interested in computer vision and the applications of AI  for social good.  She  graduated from Ecole Centrale Paris in applied mathematics and   ESSEC Business School in management & social entrepreneurship, and obtained a Master's degree in computer vision and machine learning (MVA) from ENS Paris Saclay. She usually plays the piano, but is very excited (and a little terrified!) to be singing at NeurIPS. She enjoys writing [songs](https://soundcloud.com/thisismelisande) and you can find her on  [LinkedIn](https://www.linkedin.com/in/melisandeteng/).
+
+<br><br><br>
+
 ---
 
 ### Dhruv Karthik (Vocals)
