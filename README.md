@@ -18,6 +18,14 @@ Good kid is band of five programmers that met at the university of Toronto while
 
 ---
 
+### Dhruv Karthik (Vocals)
+<img src="images/dhruv_karthik.jpg" width=200 align="left">
+
+Dhruv Karthik is an Undergraduate Junior + Masters Student at the University of Pennsylvania, studying Computer Science and Robotics. His current research interests are on using end-to-end learning to teach [small autonomous racecars](f1tenth.org) how to race, and learn safe policies in simulation that transfer to reality. He regularly plays acoustic performances all around campus, and the Philadelphia area. Check out his music on [instagram](https://www.instagram.com/dhruv_karthik/), and find him on [linkedin](https://www.linkedin.com/in/dhruvkarthik/).
+<br><br><br>
+
+---
+
 ### Saurabh Kumar (Tabla)
 <img src="images/saurabh.jpg" width=200 align="left">
 
@@ -72,14 +80,6 @@ Yale Song has been playing guitar for more than 20 years in different genres ran
 
 Mélisande Teng is currently working in the [Climate Change AI team](https://mila.quebec/en/ai-society/visualizing-climate-change/) at Mila, and is interested in computer vision and the applications of AI  for social good.  She  graduated from Ecole Centrale Paris in applied mathematics and   ESSEC Business School in management & social entrepreneurship, and obtained a Master's degree in computer vision and machine learning (MVA) from ENS Paris Saclay. She usually plays the piano, but is very excited (and a little terrified!) to be singing at NeurIPS. She enjoys writing [songs](https://soundcloud.com/thisismelisande) and you can find her on  [LinkedIn](https://www.linkedin.com/in/melisandeteng/).
 
-<br><br><br>
-
----
-
-### Dhruv Karthik (Vocals)
-<img src="images/dhruv_karthik.jpg" width=200 align="left">
-
-Dhruv Karthik is an Undergraduate Junior + Masters Student at the University of Pennsylvania, studying Computer Science and Robotics. His current research interests are on using end-to-end learning to teach [small autonomous racecars](f1tenth.org) how to race, and learn safe policies in simulation that transfer to reality. He regularly plays acoustic performances all around campus, and the Philadelphia area. Check out his music on [instagram](https://www.instagram.com/dhruv_karthik/), and find him on [linkedin](https://www.linkedin.com/in/dhruvkarthik/).
 <br><br><br>
 
 --- 
