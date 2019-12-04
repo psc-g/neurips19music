@@ -29,6 +29,15 @@ Dhruv Karthik is an Undergraduate Junior + Masters Student at the University of 
 
 ---
 
+### Nicolas Keriven (Piano)
+
+<img src="images/nicoK.jpg" width="200" align="left">
+
+Nicolas Keriven is a CNRS researcher in Grenoble, France, working on data compression and theoretical machine learning on graphs. He graduated from Ecole polytechnique and obtained Master's degree in computer vision and machine learning (MVA) from ENS Paris Saclay. Classically trained on the piano, he used to annoy his teachers to no end because all he wanted to do is jazz. Well now he's a grown-up, so he can do whatever he wants, so, hah. Most recently he played in a small piano/singer duet called [Dao Loar](https://soundcloud.com/daoloar) (it means something in the regional language Breton but you'll have to ask the singer about that), and he also has [a personal SoundCloud](https://soundcloud.com/n2kv) that he updates far too rarely.
+<br><br>
+
+---
+
 ### Saurabh Kumar (Tabla)
 
 <img src="images/saurabh.jpg" width="200" align="left">
