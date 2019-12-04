@@ -8,7 +8,7 @@ This page contains information about the live music at the NeurIPS 2019 banquet.
 <img src="images/psc.jpg" width="200" align="left">
 
 Pablo Samuel Castro is the NeurIPS'19 Party Chair, and is happy to also be one of its performers! He has been playing music all his life, focusing mostly on piano and guitar. He has released 3 full length albums with Jai Guru (rock/funk), Ecos de Portoalegre (latin jazz), and [psc trio](https://www.psctrio.com/) (his current jazz trio, which you can listen to on any streaming service). In addition to playing music, he's a staff research software developer at Google Brain in Montreal. See what he's up to on [Twitter](https://twitter.com/pcastr).
-<br><br>
+<br><br><br>
 
 ---
 
@@ -25,7 +25,7 @@ Good kid is band of five programmers that met at the university of Toronto while
 <img src="images/dhruv_karthik.jpg" width="200" align="left">
 
 Dhruv Karthik is an Undergraduate Junior + Masters Student at the University of Pennsylvania, studying Computer Science and Robotics. His current research interests are on using end-to-end learning to teach [small autonomous racecars](f1tenth.org) how to race, and learn safe policies in simulation that transfer to reality. He regularly plays acoustic performances all around campus, and the Philadelphia area. Check out his music on [instagram](https://www.instagram.com/dhruv_karthik/), and find him on [linkedin](https://www.linkedin.com/in/dhruvkarthik/).
-<br><br><br>
+<br><br><br><br>
 
 ---
 
@@ -43,7 +43,7 @@ Saurabh Kumar plays the tabla, an Indian classical percussion instrument, and ha
 <img src="images/josh.jpg" width="200" align="left">
 
 Josh Payne is an undergraduate at Stanford University studying Mathematical and Computational Science. He's released two albums with his jazz quintet, The Four O'Clock Five, and has an artist sponsorship with Soultone Cymbals. He's performed with Darlene Love, Sō Percussion, Joshua Redman, Kenny Washington, Ingrid Jensen, Jeff Clayton, Jimmy Heath, Jim Pugh, and others.
-<br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
@@ -52,7 +52,7 @@ Josh Payne is an undergraduate at Stanford University studying Mathematical and 
 <img src="images/tina.jpg" width="200" align="left">
 
 Tina Raissi is finishing her Master’s studies in Computer Science and working in the field of automatic speech recognition at RWTH Aachen University. In a past life, she was a professional classical pianist, performing as a soloist and chamber musician in important Italian theaters. Currently, she is exploring the open seas of context-dependent acoustic modelling for speech recognition.
-<br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
@@ -61,7 +61,7 @@ Tina Raissi is finishing her Master’s studies in Computer Science and working 
 <img src="images/nixie.jpg" width="200" align="left">
 
 Nixie S. Lesmana is a first-year PhD student at Nanyang Technological University, Singapore. Her primary research interest is to advance understanding of technological innovation surrounding financial markets, with a current focus on RL applications to optimal control problems in finance. Nixie earned her Bachelor’s degree in Mathematical Sciences with Minor in Finance from NTU in 2017. More info can be found on her [LinkedIn](https://www.linkedin.com/in/nixie-sapphira-lesmana-6619abb0/). Putting research/maths aside, she loves and has been singing for more than half her life (for some videos of her singing history, visit [this link](https://www.youtube.com/results?search_query=nixie+sapphira+lesmana)).
-<br><br>
+<br><br><br>
 
 ---
 
@@ -86,7 +86,7 @@ Umut Şimşekli received his PhD degree in 2015 from Bogaziçi University, I�
 <img src="images/yale.jpg" width="200" align="left">
 
 Yale Song has been playing guitar for more than 20 years in different genres ranging from classic rock and blues to funk and pop music. Prior to moving to the US, he was part of a Korean indie rock band Line Shaped Circle and was performing regularly in rock clubs in Hongdae area, known for its urban arts and indie music culture. Apart from his life as a musician, he is a researcher working on computer vision and machine learning, especially on learning representations of visual data from unlabeled images and videos. He received his Ph.D. from MIT and now is a senior researcher at MSR Redmond. To learn more about his music and scholarly work, check his [YouTube channel](http://youtube.com/yalesong) and [personal website](http://people.csail.mit.edu/yalesong/).
-<br>
+<br><br>
 
 
 ---
