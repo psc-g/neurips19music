@@ -65,16 +65,16 @@ Tina Raissi is finishing her Master’s studies in Computer Science and working 
 
 ---
 
-### Nixie Sapphira Lesmana (Voice)
+### Nixie Sapphira Lesmana (Vocals)
 
 <img src="images/nixie.jpg" width="200" align="left">
 
-Nixie S. Lesmana is a first-year PhD student at Nanyang Technological University, Singapore. Her primary research interest is to advance understanding of technological innovation surrounding financial markets, with a current focus on RL applications to optimal control problems in finance. Nixie earned her Bachelor’s degree in Mathematical Sciences with Minor in Finance from NTU in 2017. More info can be found on her [LinkedIn](https://www.linkedin.com/in/nixie-sapphira-lesmana-6619abb0/). Putting research/maths aside, she loves and has been singing for more than half her life (for some videos of her singing history, visit [this link](https://www.youtube.com/results?search_query=nixie+sapphira+lesmana)).
+Nixie S. Lesmana is a first-year PhD student at Nanyang Technological University, Singapore. Her primary research interest is to advance understanding of technological innovation surrounding financial markets, with a current focus on RL applications to optimal control problems in finance. Nixie earned her Bachelor’s degree in Mathematical Sciences with Minor in Finance from NTU in 2017. More info can be found on her [LinkedIn](https://www.linkedin.com/in/nixie-sapphira-lesmana-6619abb0/). Putting research/maths aside, she loves and has been singing for more than half her life (for some videos of her singing history, visit [this link](https://m.youtube.com/playlist?list=PLlqaX3bGkvuzmoEWS_ZBjTOZtjQrSmJtK)).
 <br><br><br>
 
 ---
 
-### Matineh Shaker (Voice)
+### Matineh Shaker (Vocals)
 
 <img src="images/matineh.jpg" width="200" align="left">
 
