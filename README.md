@@ -74,7 +74,7 @@ Nixie S. Lesmana is a first-year PhD student at Nanyang Technological University
 
 ---
 
-### Matineh Shaker (Voice)
+### Matineh Shaker (Vocals)
 
 <img src="images/matineh.jpg" width="200" align="left">
 
