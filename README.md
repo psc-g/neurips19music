@@ -83,3 +83,13 @@ Dhruv Karthik is an Undergraduate Junior + Masters Student at the University of 
 <br><br><br>
 
 --- 
+
+### Charles Onu (Vocals)
+<img src="images/CharlesOnu.jpg" width=200 align="left">
+
+[Charles](https://onucharles.wordpress.com/about/) will be performing at NeurIPS for the second year in a row. He sings, plays the piano and the acoustic guitar. Neither of the 3 was learnt professionally but he might have learnt how to fake it. You'll find some of his performances on [his facebook page](https://www.facebook.com/onucharlesc/videos/). Recently he has been learning to play the harmonica, but the tiny instrument seems to be sucking all the breath out of him. When the stars align, he usually studies as a PhD student at McGill University and Mila in Montreal. His research focusses on medical applications of machine learning.
+
+Charles Onu
+<br><br><br>
+
+--- 
