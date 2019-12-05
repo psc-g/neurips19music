@@ -20,6 +20,15 @@ Good kid is band of five programmers that met at the university of Toronto while
 
 ---
 
+### Hassan Kane (DJ)
+
+<img src="images/hassan.jpg" width="200" align="left">
+
+Hassan is the NeurIPS'19 Party Co-Chair. Ivorian MIT-trained technology entrepreneur and AI researcher. I am interested in founding, leading high impact technology companies. Equally passionate about investing in startups, mentoring student founders caring about innovation + social impact and building communities.
+<br><br><br><br>
+
+---
+
 ### Dhruv Karthik (Vocals)
 
 <img src="images/dhruv_karthik.jpg" width="200" align="left">
