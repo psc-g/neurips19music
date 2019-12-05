@@ -45,7 +45,7 @@ Saurabh Kumar plays the tabla, an Indian classical percussion instrument, and ha
 Sageev [Oore](http://www.cs.smu.ca/~sageev/index.html) has fun playing piano and working with his students on machine learning research. He's a faculty member at [Vector Institute](https://vectorinstitute.ai/), Dalhousie University, 
 and is a [CCAI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs). 
 <br><br>Also, this photo is neither machine-generated nor photoshopped; it's just a photo.
-
+<br><br><br><br><br>
 
 ---
 
