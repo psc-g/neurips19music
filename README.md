@@ -56,6 +56,15 @@ Saurabh Kumar plays the tabla, an Indian classical percussion instrument, and ha
 
 ---
 
+### Charles Onu (Vocals)
+
+<img src="images/charles.jpg" width="200" align="left">
+
+[Charles](https://onucharles.wordpress.com/about/) will be performing at NeurIPS for the second year in a row. He sings, plays the piano and the acoustic guitar. Neither of the 3 was learnt professionally but he might have learnt how to fake it. You'll find some of his performances on [his facebook page](https://www.facebook.com/onucharlesc/videos/). Recently he has been learning to play the harmonica, but the tiny instrument seems to be sucking all the breath out of him. When the stars align, he usually studies as a PhD student at McGill University and Mila in Montreal. He founded [Ubenwa](http://ubenwa.ai) to leverage machine learning for low-cost medical diagnosis.
+<br>
+
+---
+
 ### Sageev Oore (Piano)
 
 <img src="images/sageev.jpg" width="200" align="left">
@@ -66,15 +75,6 @@ Dalhousie University,
 and is a [CCAI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs).
 <br><br>Also, this photo is neither machine-generated nor photoshopped; it's just a photo.
 <br><br><br><br><br>
-
----
-
-### Charles Onu (Vocals)
-
-<img src="images/charles.jpg" width="200" align="left">
-
-[Charles](https://onucharles.wordpress.com/about/) will be performing at NeurIPS for the second year in a row. He sings, plays the piano and the acoustic guitar. Neither of the 3 was learnt professionally but he might have learnt how to fake it. You'll find some of his performances on [his facebook page](https://www.facebook.com/onucharlesc/videos/). Recently he has been learning to play the harmonica, but the tiny instrument seems to be sucking all the breath out of him. When the stars align, he usually studies as a PhD student at McGill University and Mila in Montreal. He founded [Ubenwa](http://ubenwa.ai) to leverage machine learning for low-cost medical diagnosis.
-<br>
 
 ---
 
@@ -109,7 +109,8 @@ Nixie S. Lesmana is a first-year PhD student at Nanyang Technological University
 
 <img src="images/matineh.jpg" width="200" align="left">
 
-Matineh grew up in Iran and moved to the United States in 2008. She was interested in singing from a very young age and received voice and piano training in Iran. Later, she expanded her skills by studying piano and music theory with Tal Zilber from New England Conservatory in Boston. She took voice and solfege lessons, along with and Persian classical music (Radeef) with late Shadi Ebrahmi, and further fine-tuned the skills with Mojgan Shajarian. Matineh joined Sayeh Ensemble in Boston in 2014, with the mission of writing and playing Persian classical music, specially for familiarizing non-Iranian audience with such music. She performed as a solo and duet vocalist in numerous events across New England, from Boston's Museum of Fine Arts and Harvard Silk Road Project, to many performances at cultural events in the universities and two popular full-feature concerts in Boston. She was a performer in a cross-cultural music company in New York, Floating Tower, singing along side musicians from middle east in Farsi and improvising on Persian tunes. In 2019, she performed in Tunes Of Four Lands concert in the Bay Area as the solo vocalist singing Iranian folk music of Bakhtiari. She continues to be inspired by the music of cultures around the world to advance her vocal art. Matineh is currently a Senior Applied Scientist at Microsoft AI.
+Matineh is a Senior Applied Scientist at Microsoft AI & Research, working on building a machine teaching platform based on reinforcement learning. Growing up in Iran, she was interested in singing from a young age. She received voice, piano and music theory training, as well as lessons on Persian classical music (Radeef). Later, she fine-tuned her vocal skills by taking lessons with Mojgan Shajarian. Matineh joined Sayeh Ensemble in Boston in 2014. She performed as a solo and duet vocalist in numerous events across New England and New York, including Boston's Museum of Fine Arts, Harvard Silk Road Project, two full-feature concerts in Boston, and Floating Tower where she sang alongside musicians from middle east, improvising on Persian tunes. In 2019, she performed in Tunes Of Four Lands concert in the Bay Area as the solo vocalist singing Iranian folk music of Bakhtiari. She continues to be inspired by the music of cultures around the world to advance her vocal art.
+<br><br>
 
 ---
 
